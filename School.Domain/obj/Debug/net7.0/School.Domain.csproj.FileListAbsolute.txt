@@ -1,0 +1,12 @@
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Domain\bin\Debug\net7.0\School.Domain.deps.json
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Domain\bin\Debug\net7.0\School.Domain.dll
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Domain\bin\Debug\net7.0\School.Domain.pdb
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Domain\obj\Debug\net7.0\School.Domain.csproj.AssemblyReference.cache
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Domain\obj\Debug\net7.0\School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Domain\obj\Debug\net7.0\School.Domain.AssemblyInfoInputs.cache
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Domain\obj\Debug\net7.0\School.Domain.AssemblyInfo.cs
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Domain\obj\Debug\net7.0\School.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Domain\obj\Debug\net7.0\School.Domain.dll
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Domain\obj\Debug\net7.0\refint\School.Domain.dll
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Domain\obj\Debug\net7.0\School.Domain.pdb
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Domain\obj\Debug\net7.0\ref\School.Domain.dll

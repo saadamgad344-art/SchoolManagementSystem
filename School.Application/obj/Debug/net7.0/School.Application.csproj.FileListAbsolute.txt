@@ -1,0 +1,15 @@
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Application\bin\Debug\net7.0\School.Application.deps.json
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Application\bin\Debug\net7.0\School.Application.dll
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Application\bin\Debug\net7.0\School.Application.pdb
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Application\bin\Debug\net7.0\School.Domain.dll
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Application\bin\Debug\net7.0\School.Domain.pdb
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Application\obj\Debug\net7.0\School.Application.csproj.AssemblyReference.cache
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Application\obj\Debug\net7.0\School.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Application\obj\Debug\net7.0\School.Application.AssemblyInfoInputs.cache
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Application\obj\Debug\net7.0\School.Application.AssemblyInfo.cs
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Application\obj\Debug\net7.0\School.Application.csproj.CoreCompileInputs.cache
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Application\obj\Debug\net7.0\School.Application.csproj.CopyComplete
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Application\obj\Debug\net7.0\School.Application.dll
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Application\obj\Debug\net7.0\refint\School.Application.dll
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Application\obj\Debug\net7.0\School.Application.pdb
+C:\Users\Temp\Desktop\SchoolManagementSystem\School.Application\obj\Debug\net7.0\ref\School.Application.dll
